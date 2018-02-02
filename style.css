@@ -22,6 +22,7 @@ h1 {
 .pics {
   max-width:400px;
   height:auto;
+  padding: 10px;
 }
 
 [class *= "col-"] {
